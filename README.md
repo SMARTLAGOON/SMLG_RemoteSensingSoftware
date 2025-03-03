@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/449690619.svg)](https://doi.org/10.5281/zenodo.14959843)
+
 # RemoteSensingSoftware
 This repo contains remote sensing software developed in SMARTLAGOON project.
 
